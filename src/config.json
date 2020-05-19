@@ -1,6 +1,6 @@
 ﻿{
    
-    "connectionString": "",
+    "connectionString": "mongodb+srv://internfoodshala:deadlydude@cluster0-72kxl.mongodb.net/test?retryWrites=true&w=majority",
     "secret": "internshala-assignment"
     
 }
